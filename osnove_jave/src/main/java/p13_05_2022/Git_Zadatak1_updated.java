@@ -1,6 +1,6 @@
 package p13_05_2022;
 
-public class Git_Zadatak1 {
+public class Git_Zadatak1_updated {
     git clone url
     git status
             git add"A"
